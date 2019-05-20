@@ -4,3 +4,10 @@ node_modules/
 books/
 .idea/
 package-lock.json
+.browser-data/Cache/data_0
+.browser-data/Cache/data_1
+.browser-data/Cache/data_2
+.browser-data/Cache/data_3
+.browser-data/Cache/f_000001
+.browser-data/Cache/f_000002
+.browser-data/*
